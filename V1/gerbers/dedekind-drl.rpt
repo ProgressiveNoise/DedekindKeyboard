@@ -1,0 +1,32 @@
+Drill report for dedekind.kicad_pcb
+Created on 2024-04-05T15:47:01+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'dedekind-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (83 holes)
+    T2  0.400mm  0.0157"  (16 holes)
+    T3  0.500mm  0.0197"  (88 holes)
+    T4  0.600mm  0.0236"  (6 holes)
+    T5  0.700mm  0.0276"  (4 holes)  (with 4 slots)
+    T6  1.000mm  0.0394"  (40 holes)
+    T7  3.200mm  0.1260"  (1 hole)
+
+    Total plated holes count 238
+
+
+Drill file 'dedekind-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.750mm  0.0689"  (84 holes)
+    T2  3.050mm  0.1201"  (84 holes)
+    T3  3.200mm  0.1260"  (4 holes)
+    T4  4.000mm  0.1575"  (21 holes)
+
+    Total unplated holes count 193
