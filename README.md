@@ -1,6 +1,6 @@
-# Dedekind, inspired by Cantor.
+# Dedekind, inspired by Cantor
 
-![Image 1](/images/pr_1.webp)
+![Image 1](/V1/images/pr_1.webp)
 
 - Infinite set of silly mathematical jokes.
 
