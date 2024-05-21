@@ -62,9 +62,10 @@ At the moment, only [KMK](https://kmkfw.io/) is supported since it is what I
 use. I will add QMK support soon.
 
 - Drag and drop [CircuitPyton for the Pico](https://circuitpython.org/board/raspberry_pi_pico/).
-- Drop kmk directory from the [official repo](https://github.com/KMKfw/kmk_firmware) on
-    the CIRCUITPYTHON “flash drive”.
-- Drop kb.py and main.py from [this repo](../kmk/) in the same place.
+  [Official guide](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython).
+- Copy the kmk directory from the [official repo](https://github.com/KMKfw/kmk_firmware) to 
+    the CIRCUITPY “flash drive”.
+- Copy kb.py and main.py from [this repo](../kmk/) to the same place.
 - Then rename the “drives” as “DEDR” for the right half and “DEDL” for the left
     half.
 
